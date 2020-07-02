@@ -1,2 +1,5 @@
-# sysrepo-plugin-examples
-Not maintained sysrepo plugins usable as code examples. Feel free to open PR with your own example(s).
+# Sysrepo plugin examples
+
+Repository contains, posibly not maintained, example codes of sysrepo plugins to control some service or device. With the respect to the license of the specific example, you can use it as a base for your own sysrepo plugin. 
+
+Also please open PRs to add your own plugins as examples for other users. Just, please, provide the information about the plugin compatibility with the specific `libsysrepo` version.
